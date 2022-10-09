@@ -4,7 +4,7 @@
   "description": "utilizando los conocimientos previos del curso de asincronismo con JavaScript para crear una landing page",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh'pages 'd src"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
